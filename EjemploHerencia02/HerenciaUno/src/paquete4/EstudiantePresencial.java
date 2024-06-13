@@ -1,6 +1,6 @@
 
 package paquete4;
-
+/*
 public class EstudiantePresencial extends Estudiante{
     
     private int numeroCreditos;
@@ -39,4 +39,4 @@ public class EstudiantePresencial extends Estudiante{
         return matriculaPresencial;
     }
     
-}
+}*/
